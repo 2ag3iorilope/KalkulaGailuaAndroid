@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">KalkulaGailua</string>
+    <string name="RadioGehitu">Gehiketa</string>
+    <string name="Radiokendu">Kenketa</string>
+    <string name="RadioBider">Biderketa</string>
+    <string name="RadioZati">Zatiketa</string>
+    <string name="Z1">Zenbakia 1:</string>
+    <string name="Z2">Zenbakia 2:</string>
+    <string name="BtnGarbitu">Garbitu</string>
+    <string name="BtnKalkulatu">Kalkulatu</string>
+</resources>
